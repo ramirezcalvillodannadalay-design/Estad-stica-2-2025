@@ -1,2 +1,1 @@
-# EstadIstica-ll-2025B
-Problemario y actividades
+# Estadistica-ll-2025B
